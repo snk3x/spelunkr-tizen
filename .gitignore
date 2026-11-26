@@ -1,0 +1,4 @@
+# Signed build output from deploy.ps1 (tied to a personal Samsung certificate)
+build/
+*.wgt
+*.p12
